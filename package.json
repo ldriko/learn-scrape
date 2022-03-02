@@ -1,0 +1,12 @@
+{
+  "name": "untitled",
+  "version": "1.0.0",
+  "description": "Scrape a website",
+  "main": "index.js",
+  "author": "4d3.h34v3n@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^13.4.1"
+  },
+  "type": "module"
+}
